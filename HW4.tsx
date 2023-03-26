@@ -8,7 +8,7 @@ import Stand from './Stand'
 * 3 - дописать onChangeCallback в SuperCheckbox.tsx чтоб оба чекбокса работали на стенде
 * 4 - сделать стили в соответствии с дизайном
 * */
-///
+
 const HW4 = () => {
     return (
         <div id={'hw4'}>
